@@ -1,4 +1,4 @@
-# Olá eu sou o Lucas Machado,desenvolvedor front end e curioso UI/UX
+# Hello, I'm Lucas Machado, front end developer
 <div align="center">
   <a href="https://github.com/lucasmachadoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmachadoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
